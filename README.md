@@ -1,4 +1,5 @@
 # Cows-and-Bulls
+
 A simple and fun 2 player game
 The rules are as follows.
 
